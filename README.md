@@ -1,5 +1,3 @@
-Subir Bikram Solutions
-
 # EL GRAN QUIZ
 
 > El gran proyecto ha llegado, esta vez en forma de Quiz, para ello has de estar preparad@ porque la cosa comienza a complicarse
